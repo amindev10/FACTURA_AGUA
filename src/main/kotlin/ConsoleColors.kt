@@ -43,6 +43,7 @@ const val PURPLE_BACKGROUND: String = "\u001b[45m" // PURPLE
 const val CYAN_BACKGROUND: String = "\u001b[46m" // CYAN
 const val WHITE_BACKGROUND: String = "\u001b[47m" // WHITE
 
+
 // High Intensity
 const val BLACK_BRIGHT: String = "\u001b[0;90m" // BLACK
 const val RED_BRIGHT: String = "\u001b[0;91m" // RED

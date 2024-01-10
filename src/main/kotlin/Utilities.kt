@@ -75,6 +75,7 @@ fun readChar(pMessageIn: String
              , pMessageErrorDT: String
 ): Char{
 
+
     var outputValue: Char = ' '
     var correctDataType: Boolean = false
 
