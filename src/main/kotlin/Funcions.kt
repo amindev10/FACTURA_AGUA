@@ -4,7 +4,8 @@ var quotafixa: Double = 6.0
 fun consumoagua(): Double {
     val scanner = Scanner(System.`in`)
     print("Ingrese el consumo de agua: ")
-    return scanner.nextDouble()
+    val consumo: Double = scanner.nextDouble()
+    return consumo
 }
 
 
@@ -15,6 +16,7 @@ fun quotavariable(): Double {
         consum < 50 -> 0.0
         consum in 50.0..200.0 -> 0.15 * consum
         consum > 200 -> 0.30 * consum
+
         else -> {
             println("Tu consumo carece de sentido, por favor ingresa el número de litros de nuevo.")
             0.0
@@ -57,7 +59,7 @@ fun bonoSocial() :Double {
 
     val scanner = Scanner(System.`in`)
 
-    print("¿Tiene ingresos mínimos para sobrevivir? (SI->1 o NO->2) ")
+    print("Tiene ingresos mínimos para sobrevivir? (SI->1 o NO->2) ")
     val opcion = scanner.nextInt()
 
     if (opcion == 1) {
@@ -74,14 +76,9 @@ fun bonoSocial() :Double {
     val consumofinal = consumo + quotafixa
     return consumofinal
 }
-    fun final() {
-        var bonosocial = bonoSocial()
-        var descfamilias = descuentos()
+    fun formadesglossada() {
+        val costoFinal = minOf(bonoSocial(), descuentos())
 
-        if (bonosocial > descfamilias){
-
-        }
-        else{
 
 }
 
