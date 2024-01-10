@@ -4,39 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e1e2e2f-f096-4cdd-b4fc-f25258c08061" name="Changes" comment="">
-      <change afterPath="/dades/Amin/Kotlin/Furgo/Factura_aigua/.gitignore" afterDir="false" />
-      <change afterPath="/dades/Amin/Kotlin/Furgo/Factura_aigua/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="/dades/Amin/Kotlin/Furgo/Factura_aigua/.idea/misc.xml" afterDir="false" />
-      <change afterPath="/dades/Amin/Kotlin/Furgo/Factura_aigua/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="/dades/Amin/Kotlin/Furgo/Factura_aigua/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="/dades/Amin/Kotlin/Furgo/Factura_aigua/build.gradle.kts" afterDir="false" />
-      <change afterPath="/dades/Amin/Kotlin/Furgo/Factura_aigua/gradle.properties" afterDir="false" />
-      <change afterPath="/dades/Amin/Kotlin/Furgo/Factura_aigua/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="/dades/Amin/Kotlin/Furgo/Factura_aigua/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="/dades/Amin/Kotlin/Furgo/Factura_aigua/gradlew" afterDir="false" />
-      <change afterPath="/dades/Amin/Kotlin/Furgo/Factura_aigua/gradlew.bat" afterDir="false" />
-      <change afterPath="/dades/Amin/Kotlin/Furgo/Factura_aigua/settings.gradle.kts" afterDir="false" />
-      <change afterPath="/dades/Amin/Kotlin/Furgo/Factura_aigua/src/main/kotlin/ConsoleColors.kt" afterDir="false" />
-      <change afterPath="/dades/Amin/Kotlin/Furgo/Factura_aigua/src/main/kotlin/Funcions.kt" afterDir="false" />
-      <change afterPath="/dades/Amin/Kotlin/Furgo/Factura_aigua/src/main/kotlin/Main.kt" afterDir="false" />
-      <change afterPath="/dades/Amin/Kotlin/Furgo/Factura_aigua/src/main/kotlin/Utilities.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ConsoleColors.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Funcions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Utilities.kt" afterDir="false" />
+    <list default="true" id="3e1e2e2f-f096-4cdd-b4fc-f25258c08061" name="Changes" comment="commit inicial">
+      <change beforePath="/dades/Amin/Kotlin/Furgo/Factura_aigua/.idea/workspace.xml" beforeDir="false" afterPath="/dades/Amin/Kotlin/Furgo/Factura_aigua/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="/dades/Amin/Kotlin/Furgo/Factura_aigua/src/main/kotlin/Funcions.kt" beforeDir="false" afterPath="/dades/Amin/Kotlin/Furgo/Factura_aigua/src/main/kotlin/Funcions.kt" afterDir="false" />
+      <change beforePath="/dades/Amin/Kotlin/Furgo/Factura_aigua/src/main/kotlin/Main.kt" beforeDir="false" afterPath="/dades/Amin/Kotlin/Furgo/Factura_aigua/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,10 +47,14 @@
   "keyToString": {
     "Gradle.Build Factura_aigua.executor": "Run",
     "Kotlin.FuncionsKt.executor": "Run",
+    "Kotlin.MainKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RunManager">
@@ -112,6 +88,19 @@
       <option name="presentableId" value="Default" />
       <updated>1704874165877</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit inicial">
+      <option name="closed" value="true" />
+      <created>1704882797958</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704882797958</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit inicial" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit inicial" />
   </component>
 </project>
