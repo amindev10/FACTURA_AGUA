@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e1e2e2f-f096-4cdd-b4fc-f25258c08061" name="Changes" comment="">
+      <change afterPath="/dades/Amin/Kotlin/Furgo/Factura_aigua/.gitignore" afterDir="false" />
+      <change afterPath="/dades/Amin/Kotlin/Furgo/Factura_aigua/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="/dades/Amin/Kotlin/Furgo/Factura_aigua/.idea/misc.xml" afterDir="false" />
+      <change afterPath="/dades/Amin/Kotlin/Furgo/Factura_aigua/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="/dades/Amin/Kotlin/Furgo/Factura_aigua/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="/dades/Amin/Kotlin/Furgo/Factura_aigua/build.gradle.kts" afterDir="false" />
+      <change afterPath="/dades/Amin/Kotlin/Furgo/Factura_aigua/gradle.properties" afterDir="false" />
+      <change afterPath="/dades/Amin/Kotlin/Furgo/Factura_aigua/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="/dades/Amin/Kotlin/Furgo/Factura_aigua/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="/dades/Amin/Kotlin/Furgo/Factura_aigua/gradlew" afterDir="false" />
+      <change afterPath="/dades/Amin/Kotlin/Furgo/Factura_aigua/gradlew.bat" afterDir="false" />
+      <change afterPath="/dades/Amin/Kotlin/Furgo/Factura_aigua/settings.gradle.kts" afterDir="false" />
+      <change afterPath="/dades/Amin/Kotlin/Furgo/Factura_aigua/src/main/kotlin/ConsoleColors.kt" afterDir="false" />
+      <change afterPath="/dades/Amin/Kotlin/Furgo/Factura_aigua/src/main/kotlin/Funcions.kt" afterDir="false" />
+      <change afterPath="/dades/Amin/Kotlin/Furgo/Factura_aigua/src/main/kotlin/Main.kt" afterDir="false" />
+      <change afterPath="/dades/Amin/Kotlin/Furgo/Factura_aigua/src/main/kotlin/Utilities.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ConsoleColors.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Funcions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Utilities.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="/dades/Amin/Kotlin/Furgo/Factura_aigua" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file:///dades/Amin/Kotlin/Furgo/Factura_aigua/src/main/kotlin/Funcions.kt" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2aksy1ZhHGO7ks57KOydtLNpYMI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build Factura_aigua.executor": "Run",
+    "Kotlin.FuncionsKt.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="FuncionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FuncionsKt" />
+      <module name="org.example.Factura_aigua.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.FuncionsKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-249ae16d76d6-7c0527ad" />
+        <option value="jdk-21.0.1-corretto-21.0.1-8336523bb0d9-c99b8c3b" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e1e2e2f-f096-4cdd-b4fc-f25258c08061" name="Changes" comment="" />
+      <created>1704874165877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704874165877</updated>
+    </task>
+    <servers />
+  </component>
+</project>
